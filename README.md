@@ -8,5 +8,3 @@ This project implements an API that classifies incoming support emails into pred
 *   **Email Classification:** Classifies the masked email content using a TF-IDF + Logistic Regression model trained on the provided dataset.
 *   **API:** Exposes the functionality via a FastAPI endpoint (`/classify/`).
 *   **Strict Output Format:** Adheres to the specified JSON output structure for automated evaluation.
-
-## Project Structure
